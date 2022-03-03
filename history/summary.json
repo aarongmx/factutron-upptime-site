@@ -4,7 +4,7 @@
     "url": "https://portal.factutron.com",
     "icon": "https://favicons.githubusercontent.com/portal.factutron.com",
     "slug": "factutron",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-03-03": 0,
       "2022-02-26": 47
     }
   }
