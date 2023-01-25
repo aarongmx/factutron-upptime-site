@@ -4,7 +4,7 @@
     "url": "https://portal.factutron.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.factutron.com.ico",
     "slug": "factutron",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 359,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-05-17": 201,
       "2022-03-07": 16,
       "2022-02-26": 47
